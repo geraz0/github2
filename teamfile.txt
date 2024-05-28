@@ -4,3 +4,5 @@ cd = change directory
 git commit -m "<message>" = Commit the staged snapshot, but instead of launching
 a text editor, use <message> as the commit message.
 mv = move files
+git checkout -b <branch> = Create and check out a new branch named <branch>.
+Drop the -b flag to checkout an existing branch.
