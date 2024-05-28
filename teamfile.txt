@@ -3,3 +3,4 @@ create a new branch with the name <branch>.
 cd = change directory
 git commit -m "<message>" = Commit the staged snapshot, but instead of launching
 a text editor, use <message> as the commit message.
+mv = move files
