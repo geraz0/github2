@@ -6,3 +6,4 @@ a text editor, use <message> as the commit message.
 mv = move files
 git checkout -b <branch> = Create and check out a new branch named <branch>.
 Drop the -b flag to checkout an existing branch.
+git status = list which files are staged, unstaged, and untracked
